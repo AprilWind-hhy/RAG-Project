@@ -119,4 +119,4 @@ streamlit run chat_app.py
 - 首次运行 load_data.py 时，会下载嵌入模型，可能需要较长时间（取决于网络状况）。
 - 本项目提供了一份简单的数据文件，可以直接使用。也可以使用其它的的数据文件。
 - 确保网络连接正常，以便模型能够正常加载和运行。
-- 若遇到模型加载失败，可检查 MODELSCOPE_SDK_TOKEN 是否有效。"# RAG-Project" 
+- 若遇到模型加载失败，可检查 MODELSCOPE_SDK_TOKEN 是否有效。

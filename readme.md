@@ -89,7 +89,7 @@ streamlit run chat_app.py
 ```
 3. **运行界面**
 
-![image-20251217132303093](.\pic\image-20251217132303093.png)
+![image-20251217132303093]([.\pic\image-20251217132303093.png](https://github.com/AprilWind-hhy/RAG-Project/blob/main/pic/image-20251217132303093.png))
 
 4. **运行效果**
 
